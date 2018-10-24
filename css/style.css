@@ -79,6 +79,41 @@ nav {
 	width: 30%;
 }
 
+/*ФУТЕР*/
+
+footer {
+	width: 100%;
+	height: auto;
+	background-color: #000;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 25px;
+}
+
+footer a {
+	color: white;
+	font-size: 14px;
+	margin-left: 10px;
+}
+
+.social img {
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+footer p {
+	color: white;
+}
+
+.social img:hover {
+	background: #494949;
+	border-radius: 50%;
+}
+
+footer nav a:hover {
+	border-bottom: 1px solid white;
+
+}
 
 /*МЕДИА ЗАПРОСЫ*/
 
