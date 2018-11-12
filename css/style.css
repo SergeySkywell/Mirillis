@@ -16,18 +16,17 @@ body {
 	font-family: 'Raleway', sans-serif;
 }
 
+/*Header*/
+
 .logo {
 	background: #000;
 	width: 100%;
 	display: flex;
 	justify-content: center;
+	color: #fff;
+	font-size: 50px;
 }
 
-.graficlogo {
-	padding: 5px;
-	max-width: 100%;
-	box-sizing: border-box;
-}
 
 nav {
 	margin: auto;
@@ -58,6 +57,7 @@ nav {
 
 .mw-100 {
 	width: 100%;
+	margin-bottom: -350px;
 }
 
 .advantages__container {
