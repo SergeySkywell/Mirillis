@@ -296,6 +296,19 @@ textarea {
 	background-color: #fbfbfb;
 	transition: 0.3s ease;
 }
+
+/*About*/
+
+.about__container {
+	width: 80%;
+	margin: 50px auto;
+	text-align: center;
+}
+
+.about__container p {
+	margin-top: 50px;
+}
+
 /*МЕДИА ЗАПРОСЫ*/
 
 @media screen and (max-width: 768px) {
